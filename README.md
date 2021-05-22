@@ -1,4 +1,4 @@
-# Tetris-game-OOP-project
+# Tetris-game-using-C
 ## ABSTRACT
 
 Tetris , a tile-matching video game, created by a Russian software engineer Alexey Pajitnov
